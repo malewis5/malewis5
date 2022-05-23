@@ -1,3 +1,10 @@
+<p align="center">
+
+<img width="1500" src="https://user-images.githubusercontent.com/29663600/169871075-ef1b2182-beb0-4529-acc7-fdbbe7a14d18.jpg" alt="my banner"/>
+
+</p>
+
+
 <h3>Hi, I'm Matt</h3>
 <hr/>
 
@@ -7,10 +14,3 @@
 
 <h4>🔗 Connect with me</h4>
 
-
-
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=malewis5&show_icons=true&theme=radical)
-<!---
-malewis5/malewis5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
