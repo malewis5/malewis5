@@ -6,7 +6,7 @@
 Hi there, I'm <a href="https://www.matthew-lewis.online/" target="_blank" rel="noreferrer">Matt</a> 👋
 </h3>
 
-I have a passion for the web and building new technologies from the ground up. With a background in chemical engineering and an MBA in Data Analytics I have a skillset that takes me further than the keyboard.
+I'm an experienced team leader with a background in Software Engineering focused on cloud computing and e-commerce. I also possess strong information technology skills and have an MBA focused on Data Analytics and Entrepreneurship.
 
 ### 🔗 Connect with me:
 
