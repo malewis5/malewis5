@@ -15,7 +15,6 @@ I'm an experienced team leader with a background in Software Engineering focused
 <a href="https://twitter.com/mttlws">
 ![Twitter Follow](https://img.shields.io/twitter/follow/mttlws?style=social)
 </a>
-![GitHub followers](https://img.shields.io/github/followers/malewis5?style=social)
 </br>
 
 ## 🔭 I'm currently working on
