@@ -12,7 +12,9 @@ I'm an experienced team leader with a background in Software Engineering focused
 
 <a href="https://www.linkedin.com/in/malewis5/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Matthew Lewis | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/matt____lewis"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Matthew Lewis | Instagram" width="21px"/></a>
+<a href="https://twitter.com/mttlws">
 ![Twitter Follow](https://img.shields.io/twitter/follow/mttlws?style=social)
+</a>
 ![GitHub followers](https://img.shields.io/github/followers/malewis5?style=social)
 </br>
 
