@@ -53,4 +53,5 @@ I'm an experienced team leader with a background in Software Engineering focused
 
 ## 📚 Certifications
 
-![Stripe Certified Professional Developer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/60265399")
+<a href="https://www.credly.com/badges/bda0643b-3a7f-419a-a830-9d828d8537a8/public_url"><img align="left" src="https://images.credly.com/size/200x200/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" alt="AWS Serverless Badge from Credly" width="200px"/></a>
+<a href="https://stripecertifications.credential.net/b2e57341-95f0-4a5b-a1fb-3571f56eb929#gs.mg9ggw"><img align="left" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/60265399" alt="AWS Serverless Badge from Credly" width="200px"/></a>
