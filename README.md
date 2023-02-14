@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://www.matthew-lewis.online/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/29663600/169877638-43f78df7-2038-4744-9a51-954b8df0ab33.jpg" alt="my banner"></a>
+  <a href="https://www.mattech.fyi/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/29663600/169877638-43f78df7-2038-4744-9a51-954b8df0ab33.jpg" alt="my banner"></a>
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.matthew-lewis.online/" target="_blank" rel="noreferrer">Matt</a> 👋
+Hi there, I'm <a href="https://www.mattech.fyi/" target="_blank" rel="noreferrer">Matt</a> 👋
 </h3>
 
 I'm an experienced team leader with a background in Software Engineering focused on cloud computing and e-commerce. I also possess strong information technology skills and have an MBA focused on Data Analytics and Entrepreneurship.
