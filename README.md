@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.mattech.fyi/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/29663600/169877638-43f78df7-2038-4744-9a51-954b8df0ab33.jpg" alt="my banner"></a>
+  <a href="https://www.mattech.fyi/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dn4bh5hdx/image/upload/v1676347935/Screenshot_2023-02-13_at_9.06_1_ghux4w.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
