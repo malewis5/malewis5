@@ -22,7 +22,7 @@ I'm an experienced team leader with a background in Software Engineering focused
 - E-Commerce payment microservices
 - Kubernetes Build Pipelines
 - IaaS (Infrastructure as a service)
-- [Gateway Subs](https://gateway-frontend-alpha.vercel.app)
+- [Gateway Subs](https://gatewaysubs.com)
 
 ## 🌱 I'm currently learning
 
